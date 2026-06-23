@@ -1,0 +1,54 @@
+# 520. Detect Capital
+
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3) ![Language](https://img.shields.io/badge/Language-Java-blue) ![String](https://img.shields.io/badge/String-purple)
+
+
+🔗 [View on LeetCode](https://leetcode.com/problems/detect-capital/)
+
+
+## 📝 Problem Description
+
+We define the usage of capitals in a word to be right when one of the following cases holds:
+
+	- All letters in this word are capitals, like `"USA"`.
+
+	- All letters in this word are not capitals, like `"leetcode"`.
+
+	- Only the first letter in this word is capital, like `"Google"`.
+
+Given a string `word`, return `true` if the usage of capitals in it is right.
+
+ 
+
+Example 1:**
+
+```
+**Input:** word = "USA"
+**Output:** true
+
+```
+Example 2:**
+
+```
+**Input:** word = "FlaG"
+**Output:** false
+
+```
+
+ 
+
+**Constraints:**
+
+	- `1 <= word.length <= 100`
+
+	- `word` consists of lowercase and uppercase English letters.
+
+## 📊 Metrics
+
+| Metric | Value |
+|:-------|:------|
+| ⏱️ Runtime | 1 ms (Beats 89.09%) |
+| 💾 Memory | 43.4 MB (Beats 13.45%) |
+| 📅 Solved | 2026-06-16 |
+| 💻 Language | Java |

@@ -53,27 +53,6 @@ Example 2:**
 
 	- `-10^6 <= nums1[i], nums2[i] <= 10^6`
 
-## 🧠 Solution Explanation
-
-**Intuition**
-The solution uses a brute-force approach by merging the two sorted arrays, sorting the merged array, and then finding the median. However, this approach does not meet the time complexity requirement of O(log (m+n)). To achieve the required time complexity, we need to use a more efficient algorithm that takes advantage of the fact that the input arrays are sorted.
-
-**Approach**
-1. Merge the two input arrays into a single array `a`.
-2. Sort the merged array `a`.
-3. Find the median of the merged array `a`.
-   - If the length of the merged array is odd, the median is the middle element.
-   - If the length of the merged array is even, the median is the average of the two middle elements.
-
-**Time Complexity**
-O((m+n)log(m+n)) due to the sorting step. However, this is not the required time complexity of O(log (m+n)). To achieve the required time complexity, we need to use a more efficient algorithm that takes advantage of the fact that the input arrays are sorted.
-
-**Space Complexity**
-O(m+n) for storing the merged array.
-
-**Key Insight**
-The key insight is to use a binary search approach to find the median without merging and sorting the entire array. This can be achieved by finding the partition point in the merged array such that all elements on the left side are less than or equal to all elements on the right side. The median will be the average of the two middle elements if the length of the merged array is even, or the middle element if the length of the merged array is odd. This approach can be implemented using a binary search algorithm with a time complexity of O(log (m+n)).
-
 ## 📊 Metrics
 
 | Metric | Value |

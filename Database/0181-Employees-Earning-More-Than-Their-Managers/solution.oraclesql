@@ -1,0 +1,5 @@
+/* Write your PL/SQL query statement below */
+select E.name as "Employee"
+from Employee E inner join Employee M
+on E.ManagerId=M.id
+where E.salary>M.salary; 

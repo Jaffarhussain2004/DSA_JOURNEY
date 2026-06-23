@@ -61,26 +61,6 @@ Example 3:**
 
 **Follow-up: **Can you come up with an algorithm that is less than `O(n^2)` time complexity?
 
-## 🧠 Solution Explanation
-
-**Intuition**
-This solution works by brute-forcing all possible pairs of numbers in the input array and checking if their sum equals the target. This approach is straightforward but inefficient due to its quadratic time complexity.
-
-**Approach**
-1. Initialize an array `res` of size 2 to store the indices of the two numbers that add up to the target.
-2. Iterate over the input array `nums` using two nested loops. The outer loop iterates over each element in the array, and the inner loop starts from the next element (i.e., `i+1`) and goes up to the last element.
-3. For each pair of elements, check if their sum equals the target. If it does, store the indices of these elements in the `res` array.
-4. After checking all pairs, return the `res` array containing the indices of the two numbers that add up to the target.
-
-**Time Complexity**
-O(n^2), where n is the length of the input array `nums`. This is because the solution uses two nested loops, each iterating over the array, resulting in a quadratic time complexity.
-
-**Space Complexity**
-O(1), excluding the space required for the input array and the output array. The solution uses a constant amount of space to store the `res` array and the indices, making its space complexity constant.
-
-**Key Insight**
-The key insight here is that the solution is not efficient due to its quadratic time complexity, which makes it impractical for large input arrays. A more efficient solution would use a hash table to store the numbers and their indices, allowing for a linear time complexity.
-
 ## 📊 Metrics
 
 | Metric | Value |

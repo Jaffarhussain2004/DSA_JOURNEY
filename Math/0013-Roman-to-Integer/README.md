@@ -79,29 +79,6 @@ Example 3:**
 
 	- It is **guaranteed** that `s` is a valid roman numeral in the range `[1, 3999]`.
 
-## 🧠 Solution Explanation
-
-**Intuition**
-The solution works by iterating through the Roman numeral string and keeping track of the current value and the next value. If the current value is less than the next value, it means we need to subtract the current value from the sum, otherwise, we add it. This approach takes advantage of the fact that Roman numerals use subtraction to represent values.
-
-**Approach**
-1. Create a HashMap to store the mapping between Roman numerals and their integer values.
-2. Initialize a variable `sum` to store the final integer value.
-3. Iterate through the Roman numeral string from left to right.
-4. For each character, get its integer value from the HashMap.
-5. If the current value is less than the next value (if it exists), subtract the current value from the sum.
-6. Otherwise, add the current value to the sum.
-7. Return the final sum.
-
-**Time Complexity**
-O(n), where n is the length of the Roman numeral string. This is because we are iterating through the string once.
-
-**Space Complexity**
-O(1), excluding the input string. We are using a constant amount of space to store the HashMap and the sum variable.
-
-**Key Insight**
-The key insight is that we can take advantage of the subtraction rule in Roman numerals to simplify the conversion process. By checking if the current value is less than the next value, we can determine whether to add or subtract it from the sum, making the conversion process more efficient.
-
 ## 📊 Metrics
 
 | Metric | Value |
