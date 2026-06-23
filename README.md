@@ -197,3 +197,18 @@
 *⭐ Star this repo if you find it helpful!*
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
