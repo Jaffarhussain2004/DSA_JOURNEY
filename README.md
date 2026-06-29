@@ -214,6 +214,7 @@
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
