@@ -211,4 +211,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
