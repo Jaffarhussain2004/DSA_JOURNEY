@@ -207,6 +207,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -249,9 +250,14 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Counting
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
