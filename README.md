@@ -260,6 +260,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Counting
@@ -286,4 +287,12 @@
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
