@@ -220,6 +220,7 @@
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0596-classes-with-at-least-5-students) |
