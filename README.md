@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0196-delete-duplicate-emails) |
