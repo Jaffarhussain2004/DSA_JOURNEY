@@ -315,6 +315,7 @@
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
 ## Counting
@@ -348,6 +349,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
 | ------- |
