@@ -217,6 +217,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -314,6 +315,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
