@@ -218,6 +218,7 @@
 | [0018-4sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
@@ -316,6 +317,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
