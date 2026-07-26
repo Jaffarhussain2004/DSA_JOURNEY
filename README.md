@@ -207,6 +207,7 @@
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +230,7 @@
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
