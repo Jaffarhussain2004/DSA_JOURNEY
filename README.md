@@ -214,6 +214,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
