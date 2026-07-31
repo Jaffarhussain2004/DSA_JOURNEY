@@ -391,9 +391,14 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
