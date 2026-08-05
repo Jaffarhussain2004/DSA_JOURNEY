@@ -206,6 +206,7 @@
 | [0018-4sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
@@ -305,6 +306,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -320,6 +322,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
