@@ -385,6 +385,7 @@
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
 | ------- |
