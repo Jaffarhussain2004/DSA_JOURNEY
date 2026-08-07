@@ -325,6 +325,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3146-permutation-difference-between-two-strings) |
@@ -341,6 +342,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -420,8 +422,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0155-min-stack) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
