@@ -216,6 +216,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -367,6 +368,7 @@
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -416,6 +419,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -427,6 +431,7 @@
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -458,4 +463,16 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
