@@ -208,6 +208,7 @@
 | [0048-rotate-image](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0260-single-number-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
@@ -468,6 +469,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0260-single-number-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
