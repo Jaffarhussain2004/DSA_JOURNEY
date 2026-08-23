@@ -367,6 +367,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3146-permutation-difference-between-two-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -413,6 +414,7 @@
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -429,6 +431,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
+| [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
@@ -441,6 +444,7 @@
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
