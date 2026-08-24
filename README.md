@@ -217,6 +217,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -394,6 +395,7 @@
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
@@ -414,6 +416,7 @@
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -444,6 +447,7 @@
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 ## Stack
@@ -481,6 +485,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -489,5 +494,10 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
