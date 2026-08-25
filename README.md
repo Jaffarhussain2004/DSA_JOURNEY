@@ -226,6 +226,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -348,6 +349,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 ## String
 |  |
