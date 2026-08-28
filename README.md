@@ -360,6 +360,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
@@ -398,6 +399,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
@@ -417,6 +419,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0048-rotate-image) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
@@ -477,6 +480,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 ## Hash Function
 |  |
@@ -509,4 +513,12 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
