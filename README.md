@@ -219,6 +219,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -449,6 +450,7 @@
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Brainteaser
