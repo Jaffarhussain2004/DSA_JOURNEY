@@ -1,0 +1,29 @@
+class Solution {
+    public int[] beautifulArray(int n) {
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
+
+        while (list.size() < n) {
+            List<Integer> next = new ArrayList<>();
+
+            for (int x : list) {
+                if (2 * x - 1 <= n)
+                    next.add(2 * x - 1);
+            }
+
+            for (int x : list) {
+                if (2 * x <= n)
+                    next.add(2 * x);
+            }
+
+            list = next;
+        }
+
+        int[] ans = new int[n];
+        for (int i = 0; i < n; i++) {
+            ans[i] = list.get(i);
+        }
+
+        return ans;
+    }
+}
