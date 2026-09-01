@@ -319,6 +319,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0343-integer-break) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
@@ -426,6 +428,7 @@
 | [0012-integer-to-roman](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
@@ -534,4 +537,12 @@
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0932-beautiful-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
