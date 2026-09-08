@@ -452,6 +452,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3870-count-commas-in-range](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
