@@ -426,6 +426,7 @@
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
@@ -559,4 +560,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
