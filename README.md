@@ -371,6 +371,7 @@
 | [0012-integer-to-roman](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
@@ -437,6 +438,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
@@ -462,6 +464,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
