@@ -218,6 +218,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -321,6 +322,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -356,6 +358,7 @@
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -410,6 +413,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -425,6 +429,7 @@
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
