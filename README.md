@@ -220,6 +220,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -367,6 +368,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -400,6 +402,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
