@@ -402,6 +402,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -528,6 +529,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
@@ -589,6 +591,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
