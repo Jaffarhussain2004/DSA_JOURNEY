@@ -401,6 +401,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
+| [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
@@ -450,6 +451,7 @@
 | [0343-integer-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0343-integer-break) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1025-divisor-game) |
@@ -509,6 +511,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
@@ -535,6 +538,7 @@
 | [0020-valid-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -602,6 +606,7 @@
 | [0022-generate-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
