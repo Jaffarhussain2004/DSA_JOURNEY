@@ -209,6 +209,7 @@
 | [0048-rotate-image](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0260-single-number-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
@@ -362,6 +363,7 @@
 | [0012-integer-to-roman](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0451-sort-characters-by-frequency) |
@@ -393,6 +395,7 @@
 | [0043-multiply-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
@@ -448,6 +451,7 @@
 | [0022-generate-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0343-integer-break) |
@@ -471,6 +475,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 ## Math
 |  |
@@ -604,6 +609,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bracket Sequences
 |  |
@@ -643,4 +649,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
