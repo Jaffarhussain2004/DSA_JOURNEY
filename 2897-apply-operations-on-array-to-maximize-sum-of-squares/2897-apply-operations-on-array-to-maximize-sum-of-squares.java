@@ -1,0 +1,26 @@
+class Solution {
+    public int maxSum(List<Integer> nums, int k) {
+        int mod = 1000000007;
+        int[] bits = new int[31];
+        for (int n : nums) {
+            for (int i = 0; i < 31; i++) {
+                if ((n & (1 << i)) != 0) {
+                    bits[i]++;
+                }
+            }
+        }
+        long ans = 0;
+        for (int i = 0; i < k; i++) {
+            int num = 0;
+
+            for (int j = 30; j >= 0; j--) {
+                if (bits[j] > 0) {
+                    num |= (1 << j);
+                    bits[j]--;
+                }
+            }
+            ans = (ans + (long) num * num) % mod;
+        }
+        return (int) ans;
+    }
+}
