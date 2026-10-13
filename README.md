@@ -240,6 +240,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
@@ -275,6 +276,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -532,6 +534,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Brainteaser
 |  |
 | ------- |
