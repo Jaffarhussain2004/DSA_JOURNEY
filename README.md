@@ -202,6 +202,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0018-4sum) |
@@ -333,6 +334,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -639,6 +641,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0932-beautiful-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0932-beautiful-array) |
 ## Knapsack Problem
 |  |
