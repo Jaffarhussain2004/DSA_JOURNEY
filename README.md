@@ -339,6 +339,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -497,6 +498,7 @@
 | [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
