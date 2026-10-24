@@ -432,6 +432,7 @@
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -512,6 +513,7 @@
 | [1872-stone-game-viii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2409-count-days-spent-together) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
