@@ -218,6 +218,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0932-beautiful-array) |
+| [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -349,11 +350,13 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0279-perfect-squares) |
+| [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
@@ -366,6 +369,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0048-rotate-image) |
+| [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
@@ -487,6 +491,7 @@
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
+| [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
