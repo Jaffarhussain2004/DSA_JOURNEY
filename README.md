@@ -381,6 +381,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
@@ -416,6 +417,7 @@
 | [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
@@ -448,6 +450,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
