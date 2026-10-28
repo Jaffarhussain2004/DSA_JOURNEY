@@ -249,6 +249,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -372,6 +373,7 @@
 | [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -490,6 +492,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -618,6 +621,7 @@
 | [0260-single-number-iii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0260-single-number-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
