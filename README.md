@@ -426,6 +426,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0535-encode-and-decode-tinyurl) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -516,6 +517,7 @@
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0932-beautiful-array) |
@@ -541,6 +543,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0592-fraction-addition-and-subtraction) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3498-reverse-degree-of-a-string) |
@@ -690,4 +693,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0139-word-break) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
