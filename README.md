@@ -420,6 +420,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0299-bulls-and-cows) |
+| [0394-decode-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
@@ -583,6 +584,7 @@
 | [0020-valid-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
@@ -607,6 +609,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Function
