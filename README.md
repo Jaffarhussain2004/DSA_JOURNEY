@@ -221,6 +221,7 @@
 | [0877-stone-game](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0932-beautiful-array) |
 | [1254-number-of-closed-islands](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -266,6 +267,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0763-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -281,6 +283,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -347,6 +350,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/0441-arranging-coins) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
