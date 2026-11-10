@@ -245,6 +245,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -501,6 +502,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Jaffarhussain2004/DSA_JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
